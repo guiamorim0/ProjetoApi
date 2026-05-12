@@ -78,7 +78,7 @@ main{
     background:var(--bgColor1);
     font-weight:900;
 }
-#saida{
+#resultado{
     background:var(--bgColor1);
     padding:20px;
     border-radius:10px;
